@@ -1,0 +1,1 @@
+java -cp DotaPickAnalyzer.jar app.Main
